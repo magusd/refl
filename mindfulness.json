@@ -1,7 +1,10 @@
 {
         "refl.me":true,
         "title":"Mindfulnes",
-        "message":"Be aware, mind your surroundings!",
+        "message":"wake up!",
         "image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d2\/Headspace-logo.jpg\/220px-Headspace-logo.jpg",
-        "refresh":96
+        "refresh":96,
+        "notification":true,
+        "sound":true,
+        "vibration":true
 }
