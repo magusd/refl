@@ -2,7 +2,7 @@
         "refl.me":true,
         "title":"Mindfulnes",
         "message":"wake up!",
-        "image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d2\/Headspace-logo.jpg\/220px-Headspace-logo.jpg",
+        "image":"https:\/\/raw.githubusercontent.com\/magusd\/refl\/master\/hslogo.jpg",
         "refresh":96,
         "notification":true,
         "sound":true,
